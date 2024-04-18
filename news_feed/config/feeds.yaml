@@ -1,0 +1,18 @@
+---
+feeds:
+  - name: deepmind
+    url: https://deepmind.google/blog/rss.xml
+  - name: openai
+    url: https://openai.com/blog/rss.xml
+  - name: aws machine learning
+    url: https://aws.amazon.com/blogs/machine-learning/feed/
+  - name: google ai
+    url: https://blog.google/technology/ai/rss/
+  - name: mit ai news
+    url: https://news.mit.edu/topic/mitartificial-intelligence2-rss.xml
+  - name: apple ml research
+    url: https://machinelearning.apple.com/rss.xml
+  - name: o'reilly media
+    url: https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml
+  - name: meta research
+    url: https://research.facebook.com/feed/

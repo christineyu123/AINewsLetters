@@ -1,0 +1,110 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# DotEnv configuration
+tests/.env
+
+# Database
+*.db
+!ai_trends.db
+*.rdb
+
+# Pycharm
+.idea
+
+# VS Code
+.vscode/
+
+# Spyder
+.spyproject/
+
+# Jupyter NB Checkpoints
+.ipynb_checkpoints/
+
+# pyenv python version
+.python-version
+
+# Mac OS-specific storage files
+.DS_Store
+
+# vim
+*.swp
+*.swo
+
+# Mypy cache
+.mypy_cache/
+
+# Local run created directories
+.hydra
+*.log
+mlruns/
+outputs/
+/tests/assets/
+
+# Miscellaenous file types
+*.csv
+*.json
+# Output files
+*.txt
+!*requirements.txt
+*.png
+*.PNG
+*.bin
+*.pkl
+*.JPG
+*.JPEG
+*.jpg
+*.jpeg
+*.html
+.pytest_cache/
+*.pyc
+
+.idea/
+.env
+# for curate part
+curate_venv/
+article_curation/curate_output_folder/
+!resources/assets/*.png
